@@ -1,0 +1,12 @@
+
+
+                                            Run First PHP * on localhost using XAMPP
+											
+PHP:PHP 8-26th Nov 2020
+
+XAMPPP: Apache server
+        MySQL/MariaDB
+        PHP 8
+XAMPP Location:C:\Users\adity\OneDrive\Desktop\Xammp2.0
+Project Location:C:\Users\adity\OneDrive\Desktop\Xammp2.0\htdocs\Aditya project
+PHP File Location:C:C:\Users\adity\OneDrive\Desktop\Xammp2.0\htdocs\Aditya project\demo.php										

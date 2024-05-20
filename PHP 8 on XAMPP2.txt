@@ -1,0 +1,10 @@
+                                            Run First PHP * on localhost using XAMPP
+											
+PHP:PHP 8-26th Nov 2020
+
+XAMPPP: Apache server
+        MySQL/MariaDB
+        PHP 8
+XAMPP Location:C:\Users\adity\OneDrive\Desktop\Xammp3.0
+Project Location:C:\Xampp3.0\htdocs\online-examination-system
+PHP File Location:C:\Xampp3.0\htdocs\online-examination-system\login.php
